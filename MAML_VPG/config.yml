@@ -1,0 +1,4 @@
+learning_rate: 0.0005 # learning rate for the meta policy optimizer
+episode_num: 50000
+meta_baseline_lr: 0.0002 # learning rate for baseline opt in meta learner
+GPU: False  # disable GPU at this state. TODO: solve the issue when scripts running on GPU

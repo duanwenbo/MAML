@@ -1,0 +1,2 @@
+2020-04-01 02:01:54,579 DEBUG   MainThread:24570 [auth.py:find_config_file():47] Trying paths: ['/home/gamma/.docker/config.json', '/home/gamma/.dockercfg']
+2020-04-01 02:01:54,579 DEBUG   MainThread:24570 [auth.py:find_config_file():54] No config file found
